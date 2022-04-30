@@ -1,0 +1,15 @@
+body {
+  color: black;
+  max-width: 800px;
+  margin-left: auto;
+  margin-right: auto;
+
+  background-color:Gray;
+  background-image:
+  radial-gradient(white, rgba(255,255,255,.1) 0px, transparent 90px),
+  radial-gradient(white, rgba(255,255,255,.05) 0px, transparent 80px),
+  radial-gradient(white, rgba(255,255,255,.05) 0px, transparent 90px),
+  radial-gradient(rgba(255,255,255,.4), rgba(255,255,255,.02) 0px, transparent 30px);
+  background-size: 550px 550px, 350px 350px, 250px 250px, 150px 150px;
+  background-position: 0 0, 40px 60px, 130px 270px, 70px 100px;
+}
