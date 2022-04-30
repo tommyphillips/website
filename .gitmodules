@@ -1,0 +1,3 @@
+[submodule "academic/cs/latex"]
+	path = academic/cs/latex
+	url = https://github.com/tommyphillips/latex-html.git
